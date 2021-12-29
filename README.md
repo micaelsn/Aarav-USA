@@ -1,4 +1,4 @@
-### Hi There!👋 I'm Aarav.
+### Hi There!👋 I'm Aarav Batra.
 
 - 🔭 I’m currently working on website development frameworks and databases.
 - 🌱 I’m currently learning Python3, JavaScript, HTML, and CSS.
